@@ -78,7 +78,7 @@ body {
 	opacity:0.8;
 	}
 	/* サイドバナーのタグ---*//* サイドバナーのタグ---*//* サイドバナーのタグ---*/
-#head1 { background: url("../images/header_01.png") no-repeat top center; height: 1788px; } 
+#head1 { background: url("https://github.com/mrn-mt/lumiere/blob/main/lumiere/images/header_01.png?raw=true") no-repeat top center; height: 1788px; } 
 #head2 { background: url("../images/header_02.png") no-repeat top center; height: 283px; } 
 #head3 { background: url("../images/header_03.png") no-repeat top center; height: 2263px; } 
 #head4 { background: url("../images/header_04.png") no-repeat top center; height: 2233px; } 
